@@ -4,22 +4,9 @@ A web application that generates AI-powered tweets based on user input. This pro
 
 ---
 
-## 🚀 Features
 
-- Generate creative tweets using AI.
-- User-friendly interface with a modern design.
-- Backend integration to handle API requests securely.
-- Built with scalability and performance in mind.
 
----
 
-## 🛠️ Tech Stack
-
-- **Frontend**: Next.js, Tailwind CSS
-- **AI Integration**: Replicate AI API
-- **Backend**: Next.js API routes
-
----
 
 ## 🔧 Installation and Setup
 
@@ -90,6 +77,23 @@ git push origin feature-name
 Submit a pull request:
 
 Open a pull request on the repository and describe the changes you made.
+
+
+## 🚀 Features
+
+- Generate creative tweets using AI.
+- User-friendly interface with a modern design.
+- Backend integration to handle API requests securely.
+- Built with scalability and performance in mind.
+
+
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Next.js, Tailwind CSS
+- **AI Integration**: Replicate AI API
+- **Backend**: Next.js API routes
+
 
 📝 License
 This project is licensed under the MIT License. You can view the full license in the LICENSE file.
