@@ -39,7 +39,7 @@ Follow these steps to set up the project locally:
 
 
 
-🌟 Future Enhancements
+# 🌟 Future Enhancements
 Here are some ideas for improving the project:
 
 Add user authentication for saving and managing generated tweets.
@@ -48,7 +48,8 @@ Implement support for generating tweets in multiple languages.
 Add a feature for users to directly post tweets to Twitter from the app.
 
 
-🤝 Contributing
+# 🤝 Contributing
+
 Contributions are welcome! Here's how you can help:
 
 Fork the repository:
@@ -95,10 +96,10 @@ Open a pull request on the repository and describe the changes you made.
 - **Backend**: Next.js API routes
 
 
-📝 License
+# 📝 License
 This project is licensed under the MIT License. You can view the full license in the LICENSE file.
 
-📬 Contact
+# 📬 Contact
 Have questions or feedback? Feel free to reach out:
 
 
